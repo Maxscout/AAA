@@ -1,4 +1,4 @@
-package com.coolgamers.AAA;
+package com.coolgamers.aaa;
 
 import net.fabricmc.api.ModInitializer;
 
